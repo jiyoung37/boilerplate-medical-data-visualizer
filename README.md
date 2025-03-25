@@ -1,4 +1,4 @@
-# boilerplate-medical-data-visualizer
+# Medical Data Visualizer
 freeCodeCamp_Data Analysis with Python_Project 
 
 Tools: Python, Pandas, Seaborn, Matplotlib
