@@ -13,5 +13,5 @@ Analysis:
 
 Key Skills: Data preprocessing, feature transformation, categorical plotting, correlation analysis, EDA (exploratory data analysis)
 
-![cat plot](cat_plot.png)
+![cat plot](catplot.png)
 ![heatmap plot](heatmap.png)
